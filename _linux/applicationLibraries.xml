@@ -1677,6 +1677,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cf-runtime-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="cf-runtime (v0.2.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cf-runtime-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cf-runtime-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cf-uaa-lib (v3.2.5, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cf-uaa-lib-3.2.5/lib" />
@@ -2103,6 +2112,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.1.6/lib" />
       </SOURCES>
     </library>
+    <library name="comicrelief-config (v1.10.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/coverage" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.10.0/coverage" />
+      </SOURCES>
+    </library>
     <library name="comicrelief-config (v1.2.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.2.0/ci" />
@@ -2268,6 +2292,36 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.6.0/coverage" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.6.0/data" />
+      </SOURCES>
+    </library>
+    <library name="comicrelief-config (v1.8.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/coverage" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.8.0/coverage" />
+      </SOURCES>
+    </library>
+    <library name="comicrelief-config (v1.9.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/coverage" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-config-1.9.0/coverage" />
       </SOURCES>
     </library>
     <library name="comicrelief-logger (v1.0.92, rbenv: 2.2.5) [gem]">
@@ -2485,6 +2539,36 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/comicrelief-totaliser-1.5.3/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/comicrelief-totaliser-1.5.3/ci" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/comicrelief-totaliser-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="comicrelief-totaliser (v1.5.4, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="comicrelief-totaliser (v1.6.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/comicrelief-totaliser-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="comicrelief-transaction (v1.1.8, rbenv: 2.2.5) [gem]">
@@ -3337,6 +3421,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/et-orbi-1.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi (v1.0.9, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/et-orbi-1.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/et-orbi-1.0.9/lib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.0.4, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.0.4" />
@@ -3605,6 +3698,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/faraday-0.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.14.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/faraday-0.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/faraday-0.14.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.8.11, rbenv: 2.2.5) [gem]">
@@ -6788,6 +6890,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/listen-0.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v0.7.3, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/listen-0.7.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/listen-0.7.3/lib" />
       </SOURCES>
     </library>
     <library name="listen (v2.10.0, rbenv: 2.2.5) [gem]">
@@ -10942,6 +11053,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/bench" />
       </SOURCES>
     </library>
+    <library name="rb-readline (v0.5.5, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.5/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.5/bench" />
+      </SOURCES>
+    </library>
     <library name="rbvmomi (v1.10.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.10.0/devel" />
@@ -11159,6 +11281,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.5, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/benchmarking" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/.travis" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/benchmarking" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-3.3.5/.travis" />
+      </SOURCES>
+    </library>
     <library name="redis (v4.0.1, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/redis-4.0.1/benchmarking" />
@@ -11278,6 +11413,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.11.0/icons" />
       </SOURCES>
     </library>
+    <library name="rerun (v0.12.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/icons" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/icons" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rerun (v0.8.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rerun-0.8.0/lib" />
@@ -11315,6 +11463,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler/gems/resque-ac5f8b63fb2e/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler/gems/resque-ac5f8b63fb2e/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler/gems/resque-ac5f8b63fb2e/Gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="resque (v1.26.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-1.26.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-1.26.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-1.26.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-1.26.0/bin" />
       </SOURCES>
     </library>
     <library name="resque (v1.27.0@835a4a, rbenv: 2.2.5) [gem]">
@@ -11417,6 +11576,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/resque-scheduler-4.3.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/resque-scheduler-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="resque-scheduler (v4.3.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-scheduler-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-scheduler-4.3.1/exe" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-scheduler-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/resque-scheduler-4.3.1/exe" />
       </SOURCES>
     </library>
     <library name="resqutils (v1.2.0, rbenv: 2.2.5) [gem]">
@@ -14947,6 +15117,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/webmock-1.24.6/minitest" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/webmock-1.24.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/webmock-1.24.6/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.3.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/webmock-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/webmock-3.3.0/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/webmock-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/webmock-3.3.0/minitest" />
       </SOURCES>
     </library>
     <library name="webpacker (v3.2.0, rbenv: 2.5.0) [gem]">
