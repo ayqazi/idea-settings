@@ -1,3 +1,11 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="TAB_SIZE" value="8" />
+    </value>
+  </option>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
 </code_scheme>
