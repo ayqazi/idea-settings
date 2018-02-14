@@ -5577,6 +5577,7 @@
     </library>
     <library name="guard (v0.10.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/guard/0.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/bin" />
@@ -5584,6 +5585,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/guard/0.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/guard-0.10.0/bin" />
