@@ -1,0 +1,6 @@
+<application>
+  <component name="OpenInTerminalSettings">
+    <option name="terminalCommand" value="mate-terminal" />
+    <option name="terminalCommandOptions" value="--working-directory" />
+  </component>
+</application>
