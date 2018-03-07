@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="env" type="Bash" />
       <mapping pattern="*.mk.template" type="Makefile" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
