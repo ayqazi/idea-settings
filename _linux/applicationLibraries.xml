@@ -1515,6 +1515,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/bundler-audit-0.5.0/data" />
       </SOURCES>
     </library>
+    <library name="bundler-audit (v0.6.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/bundler-audit-0.6.0/data" />
+      </SOURCES>
+    </library>
     <library name="byebug (v10.0.0, rbenv: 2.5.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.0" />
@@ -1829,6 +1842,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/CFPropertyList-2.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.6, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/CFPropertyList-2.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/CFPropertyList-2.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.6, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/CFPropertyList-2.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/CFPropertyList-2.3.6/lib" />
       </SOURCES>
     </library>
     <library name="childprocess (v0.5.5, rbenv: 2.2.5) [gem]">
@@ -3861,6 +3892,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/excon-0.55.0/tests" />
       </SOURCES>
     </library>
+    <library name="excon (v0.61.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/excon-0.61.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/execjs-2.7.0/lib" />
@@ -4245,6 +4291,40 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.34.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog (v1.38.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.38.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog (v1.38.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-1.38.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog (v1.40.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.40.0/lib" />
@@ -4262,6 +4342,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.40.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog (v1.42.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-1.42.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-aliyun (v0.1.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.1.0/lib" />
@@ -4271,6 +4368,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.1.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="fog-aliyun (v0.2.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.2.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aliyun-0.2.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="fog-aliyun (v0.2.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-aliyun-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-aliyun-0.2.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-aliyun-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-aliyun-0.2.0/bin" />
       </SOURCES>
     </library>
     <library name="fog-atmos (v0.1.0, rbenv: 2.2.2) [gem]">
@@ -4403,6 +4522,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-aws-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="fog-aws (v1.4.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-aws-1.4.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-brightbox (v0.11.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.11.0/lib" />
@@ -4414,6 +4546,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.11.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.11.0/gemfiles" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.11.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-brightbox (v0.14.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-brightbox-0.14.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-brightbox (v0.14.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-brightbox-0.14.0/lib" />
       </SOURCES>
     </library>
     <library name="fog-brightbox (v0.9.0, rbenv: 2.2.2) [gem]">
@@ -4479,6 +4637,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-cloudatcost (v0.1.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-cloudatcost-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-cloudatcost-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-core (v1.32.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/fog-core-1.32.1/lib" />
@@ -4531,6 +4700,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-core-1.43.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-core (v1.45.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-core-1.45.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-core-1.45.0/lib" />
       </SOURCES>
     </library>
     <library name="fog-digitalocean (v0.3.0, rbenv: 2.2.5) [gem]">
@@ -4622,6 +4800,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-dynect-0.0.3/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-dynect-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-dynect-0.0.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-dynect (v0.0.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-dynect-0.0.3/tests" />
       </SOURCES>
     </library>
     <library name="fog-ecloud (v0.3.0, rbenv: 2.2.2) [gem]">
@@ -4728,6 +4919,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-google-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-google (v0.1.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-google-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-google (v0.1.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/fog-google-0.1.1/lib" />
@@ -4752,6 +4956,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-google-0.1.1/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-google-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-google-0.1.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-internet-archive (v0.0.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-internet-archive-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-joyent (v0.0.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-joyent-0.0.1/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-joyent-0.0.1/tests" />
       </SOURCES>
     </library>
     <library name="fog-json (v1.0.2, rbenv: 2.2.2) [gem]">
@@ -4853,6 +5081,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-local-0.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="fog-local (v0.5.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-local-0.5.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-local-0.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-local-0.5.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-local-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-local (v0.5.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-local-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-local-0.5.0/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-local-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-local-0.5.0/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-openstack (v0.1.20, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.20/lib" />
@@ -4864,6 +5114,39 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.20/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.20/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.20/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.25, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.25/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-openstack-0.1.25/bin" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.25, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-openstack-0.1.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-openstack-0.1.25/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-openstack-0.1.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-openstack-0.1.25/bin" />
+      </SOURCES>
+    </library>
+    <library name="fog-ovirt (v1.0.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-ovirt-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-ovirt-1.0.0/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-ovirt-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-ovirt-1.0.0/tests" />
       </SOURCES>
     </library>
     <library name="fog-powerdns (v0.1.1, rbenv: 2.2.2) [gem]">
@@ -4975,6 +5258,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-profitbricks (v4.1.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-profitbricks-4.1.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-profitbricks (v4.1.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-profitbricks-4.1.1/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-rackspace (v0.1.4, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.4/lib" />
@@ -4986,6 +5295,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.4/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.5, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-rackspace-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-rackspace-0.1.5/bin" />
       </SOURCES>
     </library>
     <library name="fog-radosgw (v0.0.4, rbenv: 2.2.2) [gem]">
@@ -5051,6 +5386,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-radosgw-0.0.5/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-radosgw-0.0.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-radosgw-0.0.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-radosgw (v0.0.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-radosgw-0.0.5/tests" />
       </SOURCES>
     </library>
     <library name="fog-riakcs (v0.1.0, rbenv: 2.2.2) [gem]">
@@ -5171,6 +5519,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-sakuracloud-1.7.5/lib" />
       </SOURCES>
     </library>
+    <library name="fog-sakuracloud (v1.7.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-sakuracloud-1.7.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-sakuracloud-1.7.5/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-sakuracloud-1.7.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-sakuracloud-1.7.5/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-serverlove (v0.1.2, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/fog-serverlove-0.1.2/gemfiles" />
@@ -5286,6 +5645,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-softlayer-1.1.4/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-softlayer-1.1.4/gemfiles" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-softlayer-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-softlayer (v1.1.4, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-softlayer-1.1.4/tests" />
       </SOURCES>
     </library>
     <library name="fog-storm_on_demand (v0.1.1, rbenv: 2.2.2) [gem]">
@@ -5485,6 +5857,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-vsphere-1.8.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-vsphere (v2.0.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-vsphere-2.0.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-vsphere-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-vsphere-2.0.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-vsphere-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-vsphere (v2.0.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-vsphere-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-vsphere-2.0.1/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-vsphere-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-vsphere-2.0.1/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-xenserver (v0.3.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xenserver-0.3.0/lib" />
@@ -5494,6 +5888,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xenserver-0.3.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xenserver-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-xenserver (v0.3.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xenserver-0.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xenserver-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xenserver-0.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xenserver-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="fog-xml (v0.1.2, rbenv: 2.2.2) [gem]">
@@ -5538,6 +5943,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xml-0.1.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fog-xml-0.1.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-xml (v0.1.3, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xml-0.1.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xml-0.1.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xml-0.1.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fog-xml-0.1.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="foreman (v0.82.0, rbenv: 2.2.5) [gem]">
@@ -6444,6 +6860,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.0/script" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.16.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/httparty-0.16.1/lib" />
       </SOURCES>
     </library>
     <library name="httparty (v0.16.1, rbenv: 2.5.0) [gem]">
@@ -9039,6 +9472,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.1.0/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v4.2.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.2.0/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/net-ssh-4.2.0/support" />
       </SOURCES>
     </library>
     <library name="net-ssh-gateway (v1.2.0, rbenv: 2.2.5) [gem]">
@@ -11797,6 +12241,15 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
       </SOURCES>
     </library>
+    <library name="rbovirt (v0.1.5, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbovirt-0.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbovirt-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rbvmomi (v1.10.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.10.0/devel" />
@@ -11808,6 +12261,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.10.0/devel" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.10.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rbvmomi (v1.11.7, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/devel" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rbvmomi-1.11.7/devel" />
+      </SOURCES>
+    </library>
+    <library name="rbvmomi (v1.11.7, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/devel" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rbvmomi-1.11.7/devel" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, rbenv: 2.2.2) [gem]">
@@ -15504,6 +15983,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/trollop-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="trollop (v2.1.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
       </SOURCES>
     </library>
     <library name="turbolinks (v5.0.1, rbenv: 2.5.0) [gem]">
