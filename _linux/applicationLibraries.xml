@@ -16947,6 +16947,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/url_mount-0.2.1/pkg" />
       </SOURCES>
     </library>
+    <library name="useragent (v0.16.10, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/useragent-0.16.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/useragent-0.16.10/lib" />
+      </SOURCES>
+    </library>
     <library name="uuid (v2.3.6, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/uuid-2.3.6/bin" />
