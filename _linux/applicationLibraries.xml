@@ -11396,6 +11396,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.6 (frootube-encoder-job-creator) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
