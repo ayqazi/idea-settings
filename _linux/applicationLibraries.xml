@@ -11396,14 +11396,15 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.4 (frootube-encoder-job-creator) interpreter library">
+    <library name="Python 3.6 (frootube-encoder-job-creator) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-linux" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/frootube-encoder-job-creator/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/frootube-encoder-job-creator/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/823398944" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -11413,12 +11414,13 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/plat-linux" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.4.3/lib/python3.4/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/frootube-encoder-job-creator/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/frootube-encoder-job-creator/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/823398944" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
