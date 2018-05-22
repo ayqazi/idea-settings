@@ -3,9 +3,14 @@
     <extensionMap>
       <mapping ext="env" type="Bash" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="*.mk.template" type="Makefile" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
