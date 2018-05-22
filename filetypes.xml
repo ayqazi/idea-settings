@@ -7,6 +7,7 @@
       <mapping pattern="*.mk.template" type="Makefile" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
