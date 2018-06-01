@@ -6,9 +6,11 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="*.mk.template" type="Makefile" />
       <mapping pattern="etc-default-cloudwatch_exporter" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="rules" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.j2" type="YAML" />
+      <mapping pattern="*.yaml.j2" type="YAML" />
     </extensionMap>
   </component>
 </application>
