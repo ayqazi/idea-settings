@@ -18,6 +18,11 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="HCL-Terraform">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
