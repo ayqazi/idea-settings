@@ -5,8 +5,10 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="RubyEditorOptions">
+    <option name="startInterpolationOnHash" value="true" />
   </component>
 </application>
