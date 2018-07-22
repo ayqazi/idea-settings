@@ -19,8 +19,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HCL-Terraform">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="8" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
